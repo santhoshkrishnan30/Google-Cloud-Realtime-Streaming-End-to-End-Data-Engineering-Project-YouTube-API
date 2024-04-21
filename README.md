@@ -15,7 +15,8 @@ Also, KSqlDB was used for stream processing and the processed data is then sent 
 8. [Video](https://youtu.be/2Q4QX6Z3QZo)
 
 ## System Architecture
-![YoutubeAnalytics architecture.png](assets%2FYoutubeAnalytics%20architecture.png)
+![image](https://github.com/santhoshkrishnan30/Google-Cloud-Realtime-Streaming-End-to-End-Data-Engineering-Project-YouTube-API/assets/145760700/e5601432-0335-45a0-8ee1-637661d2325d)
+
 
 ## Requirements
 
