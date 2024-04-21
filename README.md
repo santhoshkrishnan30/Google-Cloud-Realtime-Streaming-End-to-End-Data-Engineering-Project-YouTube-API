@@ -30,7 +30,7 @@ Also, KSqlDB was used for stream processing and the processed data is then sent 
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/airscholar/YoutubeAnalytics.git
+   git clone https://github.com/santhoshkrishnan30/Google-Cloud-Realtime-Streaming-End-to-End-Data-Engineering-Project-YouTube-API.git
    ```
 
 2. Install Python dependencies.
