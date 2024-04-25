@@ -12,7 +12,7 @@ Also, KSqlDB was used for stream processing and the processed data is then sent 
 5. [Running the Code](#running-the-code)
 6. [How It Works](#how-it-works)
 7. [Contributing](#contributing)
-8. [Video](https://youtu.be/2Q4QX6Z3QZo)
+
 
 ## System Architecture
 ![image](https://github.com/santhoshkrishnan30/Google-Cloud-Realtime-Streaming-End-to-End-Data-Engineering-Project-YouTube-API/assets/145760700/e5601432-0335-45a0-8ee1-637661d2325d)
