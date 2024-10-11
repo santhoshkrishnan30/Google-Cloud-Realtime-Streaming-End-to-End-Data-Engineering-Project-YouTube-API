@@ -1,6 +1,6 @@
 # Real-Time YouTube Analytics Streamed to Telegram
 
-This Python-based project aims to fetch real-time YouTube metrics like likes, views, comments, and favorites, and then streams this data via Kafka. 
+This Python-based project aims to fetch real-time YouTube metrics like likes, views, comments, and favorites, and then streams this data via Kafka.
 Also, KSqlDB was used for stream processing and the processed data is then sent to a Telegram bot for real-time notifications.
 
 ## Table of Contents
